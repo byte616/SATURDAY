@@ -3,3 +3,5 @@
 [click here](https://cses.fi/problemset/task/1682)
 ### Checkposts
 [click here](https://codeforces.com/problemset/problem/427/C)
+### Planets and Kingdoms
+[click here](https://cses.fi/problemset/result/7107821/)
