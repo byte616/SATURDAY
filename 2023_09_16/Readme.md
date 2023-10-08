@@ -9,3 +9,5 @@
 [click here](https://cses.fi/problemset/task/1686/)
 ### Giant Pizza
 [click here](https://cses.fi/problemset/task/1684/)
+### Mr. Kitayuta's Technology
+[click here](https://codeforces.com/problemset/problem/505/D)
